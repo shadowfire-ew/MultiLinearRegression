@@ -1,0 +1,3 @@
+*.png
+*.ipynp_checkpoints/*
+*-checkpoint.*
